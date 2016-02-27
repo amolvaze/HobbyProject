@@ -17,4 +17,6 @@ Path.js - It has a function named fixPath which takes a parameter path which is 
 to use Split or regular expressions, so startsWith & endsWith functions of JavaScript are used to solve the problem. Again, we are looping through 
 array & with the help of char at we are doing comparisons. Function finally returns the fixed or rectified path.
 
+New file of sorting function has been added to repo. This is file which has a function to sort words of a given sentence.
+
 Conclusion:- Enjoyed working on project!
